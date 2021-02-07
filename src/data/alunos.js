@@ -1,0 +1,15 @@
+export default [
+    {id: 1, nome: 'Ana', nota: 2.2},
+    {id: 2, nome: 'Joana', nota: 4.2},
+    {id: 3, nome: 'Carol', nota: 6.2},
+    {id: 4, nome: 'Lara', nota: 1.2},
+    {id: 5, nome: 'Robson', nota: 2.7},
+    {id: 6, nome: 'Victin', nota: 9.3},
+    {id: 7, nome: 'Luana', nota: 19.6},
+    {id: 8, nome: 'Lidya', nota: 29.2},
+    {id: 9, nome: 'Amanda', nota: 19.2},
+    {id: 10, nome: 'Flavio', nota: 7.2},
+    {id: 11, nome: 'Saulo', nota: 6.2},
+    {id: 12, nome: 'Brisa', nota: 8.2},
+    {id: 13, nome: 'Kerlly', nota: 3.2},
+]
